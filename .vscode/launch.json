@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LargestElementInArray",
+            "request": "launch",
+            "mainClass": "LargestElementInArray",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalendrom",
+            "request": "launch",
+            "mainClass": "CheckPalendrom",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "RightAngleTrianglePattern",
+            "request": "launch",
+            "mainClass": "RightAngleTrianglePattern",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "SetMatrixZero",
+            "request": "launch",
+            "mainClass": "SetMatrixZero",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
