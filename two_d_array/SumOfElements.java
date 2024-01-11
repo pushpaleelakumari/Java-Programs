@@ -13,6 +13,10 @@ public class SumOfElements {
         return sum;
     }
 
+    public static int MultiplicationElements(int arr[][]){
+         
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int row = sc.nextInt();
