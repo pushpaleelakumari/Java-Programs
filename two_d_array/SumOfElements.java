@@ -13,6 +13,16 @@ public class SumOfElements {
         return sum;
     }
 
+    public static int MultiplicationElements(int arr[][]) {
+        int mul = 0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[0].length; j++) {
+                mul = mul * arr[i][j];
+            }
+        }
+        return mul;
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int row = sc.nextInt();
@@ -24,5 +34,6 @@ public class SumOfElements {
             }
         }
         System.out.println(SumAllElements(arr));
+        System.out.println(MultiplicationElements(arr));
     }
 }
