@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckArraySorted",
+            "request": "launch",
+            "mainClass": "CheckArraySorted",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "LastIndexOfTarget",
+            "request": "launch",
+            "mainClass": "LastIndexOfTarget",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "TargetIndex",
+            "request": "launch",
+            "mainClass": "TargetIndex",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "SecondSmallAndLarge",
+            "request": "launch",
+            "mainClass": "SecondSmallAndLarge",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "MoveZerosToEnd",
+            "request": "launch",
+            "mainClass": "MoveZerosToEnd",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "LargestElementInArray",
             "request": "launch",
             "mainClass": "LargestElementInArray",
