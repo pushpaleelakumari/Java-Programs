@@ -13,9 +13,11 @@ public class SumOfElements {
         return sum;
     }
 
-    public static int MultiplicationElements(int arr[][]){
-         int mul = 0;
-        
+    public static int MultiplicationElements(int arr[][]) {
+        int mul = 0;
+        for (int i = 0; i < arr.length; i++) {
+            
+        }
         return mul;
     }
 
