@@ -16,7 +16,9 @@ public class SumOfElements {
     public static int MultiplicationElements(int arr[][]) {
         int mul = 0;
         for (int i = 0; i < arr.length; i++) {
-            
+            for (int j = 0; j < arr[0].length; j++) {
+                mul = mul * arr[i][j];
+            }
         }
         return mul;
     }
