@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FunCode",
+            "request": "launch",
+            "mainClass": "FunCode",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "ConvertIntegerToCharacter",
+            "request": "launch",
+            "mainClass": "ConvertIntegerToCharacter",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "EvenIndexUpperCase",
+            "request": "launch",
+            "mainClass": "EvenIndexUpperCase",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "CheckArraySorted",
             "request": "launch",
             "mainClass": "CheckArraySorted",
