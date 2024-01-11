@@ -14,7 +14,9 @@ public class SumOfElements {
     }
 
     public static int MultiplicationElements(int arr[][]){
-         
+         int mul = 0;
+        
+        return mul;
     }
 
     public static void main(String[] args) {
