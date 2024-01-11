@@ -24,5 +24,6 @@ public class SumOfElements {
             }
         }
         System.out.println(SumAllElements(arr));
+        System.out.println(MultiplicationElements(arr));
     }
 }
