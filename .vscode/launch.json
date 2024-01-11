@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotateAnArray",
+            "request": "launch",
+            "mainClass": "two_d_array.RotateAnArray",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "SumOfElements",
             "request": "launch",
             "mainClass": "two_d_array.SumOfElements",
