@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfElements",
+            "request": "launch",
+            "mainClass": "two_d_array.SumOfElements",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "CheckForLowerOrUpper",
+            "request": "launch",
+            "mainClass": "basics.CheckForLowerOrUpper",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "FunCode",
             "request": "launch",
             "mainClass": "FunCode",
