@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForEachInJava",
+            "request": "launch",
+            "mainClass": "array_methods.ForEachInJava",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "RotateAnArray",
             "request": "launch",
             "mainClass": "two_d_array.RotateAnArray",
