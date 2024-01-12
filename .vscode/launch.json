@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContinousSumOfAtoB",
+            "request": "launch",
+            "mainClass": "basics.ContinousSumOfAtoB",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingElement",
+            "request": "launch",
+            "mainClass": "basics.FindMissingElement",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "ForEachInJava",
             "request": "launch",
             "mainClass": "array_methods.ForEachInJava",
