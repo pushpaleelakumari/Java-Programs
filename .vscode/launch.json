@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculateTimeStopWatch",
+            "request": "launch",
+            "mainClass": "basics.CalculateTimeStopWatch",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "ContinousSumOfAtoB",
             "request": "launch",
             "mainClass": "basics.ContinousSumOfAtoB",
