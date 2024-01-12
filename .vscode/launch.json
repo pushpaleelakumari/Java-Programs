@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculateTimeStopWatch",
+            "request": "launch",
+            "mainClass": "basics.CalculateTimeStopWatch",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "ContinousSumOfAtoB",
+            "request": "launch",
+            "mainClass": "basics.ContinousSumOfAtoB",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingElement",
+            "request": "launch",
+            "mainClass": "basics.FindMissingElement",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
+            "name": "ForEachInJava",
+            "request": "launch",
+            "mainClass": "array_methods.ForEachInJava",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "RotateAnArray",
             "request": "launch",
             "mainClass": "two_d_array.RotateAnArray",
