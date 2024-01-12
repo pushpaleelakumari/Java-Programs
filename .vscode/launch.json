@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumConsicutiveOnes",
+            "request": "launch",
+            "mainClass": "basics.MaximumConsicutiveOnes",
+            "projectName": "new_9275123d"
+        },
+        {
+            "type": "java",
             "name": "CalculateTimeStopWatch",
             "request": "launch",
             "mainClass": "basics.CalculateTimeStopWatch",
