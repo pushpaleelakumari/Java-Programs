@@ -33,5 +33,4 @@ public class MaximumConsicutiveOnes {
         }
         System.out.println(FindMaxConsicutiveOnes(arr));
     }
-
 }
